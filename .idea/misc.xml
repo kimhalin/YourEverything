@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/YourEverything/app/src/main/res/drawable/menu_selector_color.xml" value="0.2885" />
         <entry key="..\:/Users/user/AndroidStudioProjects/YourEverything/app/src/main/res/drawable/splash.xml" value="0.348" />
         <entry key="..\:/Users/user/AndroidStudioProjects/YourEverything/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YourEverything/app/src/main/res/menu/bottom_menu.xml" value="0.32447916666666665" />
         <entry key="..\:/Users/user/AndroidStudioProjects/YourEverything/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.348" />
       </map>
     </option>
